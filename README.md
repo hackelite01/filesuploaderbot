@@ -12,7 +12,7 @@
 ```sh
 git clone https://github.com/hackelite01/filesuploaderbot.git
 
-cd TelegramFiletoCloud
+cd filesuploaderbot
 
 ```
 
@@ -31,7 +31,7 @@ class Config:
     API_HASH = 'a6ec7e2ead26d1bcac4a3997780a864c'                 # from https://my.telegram.org/apps
     API_KEY = 'aoHq14CTUQyIPwltD1P'                               # from https://mixdrop.co
     API_EMAIL = 'mixdrop.login.mail.id@yourmail.com'              # from https://mixdrop.co
-    AUTH_USERS = [1169696793, <YOUR TELEGRAM CHAT ID>]                                     # ADD YOUR USER ID
+    AUTH_USERS = [997887920, <YOUR TELEGRAM CHAT ID>]                                     # ADD YOUR USER ID
 ```
 
 #### Run this bot
