@@ -26,6 +26,7 @@ pip3 install -U -r requirements.txt
 ```python3
 class Config:
     BOT_TOKEN = '1051231515:AAGv9yJbkpqQBx5nPnSRTNjF66Y5C9u4u3E'  # from @botfather
+    DATABASE_URL = 'monho.db/12345678qwert'                       # from any Database provider
     APP_ID = 1234567                                              # from https://my.telegram.org/apps
     API_HASH = 'a6ec7e2ead26d1bcac4a3997780a864c'                 # from https://my.telegram.org/apps
     API_KEY = 'aoHq14CTUQyIPwltD1P'                               # from https://mixdrop.co
